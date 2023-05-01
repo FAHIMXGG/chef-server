@@ -1,22 +1,33 @@
 [
     {
       "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
-      "others_info": {
-        "is_todays_pick": false,
-        "is_trending": true
-      },
-      "category_id": "1",
-      "rating": { "number": 4.5, "badge": "Excellent" },
+      "like": 4990,
       "total_view": 488,
-      "title": "Biden Pledges Nearly $3 Billion To Ukraine In Largest U.S. Military Aid Package Yet",
-      "author": {
-        "name": "Jimmy Dane",
-        "published_date": "2022-08-24 17:27:34",
-        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
-      },
-      "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
-      "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
-      "details": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe, Joe Biden, Military, News, Russia, Security, UK, Ukraine, United States, Worthy News (Worthy News) – U.S. President Joe Biden has announced nearly $3 billion in new U.S. military aid for Kyiv as Ukraine marked its independence day six months after Russia invaded the country.'The United States of America is committed to supporting the people of Ukraine as they continue the fight to defend their sovereignty. As part of that commitment, I am proud to announce our biggest tranche of security assistance to date: approximately $2."
+      "chef_picture": "https://cdn.discordapp.com/attachments/1094651413235253289/1102619612127961118/1Maldivess9-removebg-preview.png",
+      "name": "Edward Kwon",
+      "exp" : 8,
+      "num_rec" : 5,
+      "bio" : "Chef Edward is a well-known Korean celebrity chef and TV personality. He has worked in some of the world's best kitchens, including the Ritz Carlton, Four Seasons, and Burj Al Arab.",
+      "recipe_info" : [
+        {
+          "recipe name" : "Korean Fried Chicken",
+          "ingredients" : "1 pound chicken wings, 1 cup all-purpose flour, 1/2 cup cornstarch, 1/2 cup buttermilk, 1 tablespoon soy sauce",
+          "cooking method" : "In a bowl, mix together flour, cornstarch, garlic powder, onion powder, salt, and pepper.In another bowl, mix together buttermilk and soy sauce.Dip chicken wings into the buttermilk mixture, then into the flour mixture, shaking off any excess flour.Heat vegetable oil in a deep-fryer or large pot to 350°F (180°C).Fry the chicken wings in batches for about 10 minutes, until golden brown and cooked through.Drain the chicken wings on a paper towel-lined plate.Serve hot with Korean chili sauce, if desired.Soy Sauce Braised Short Ribs",
+          "rating" : "4.5"
+        },
+        {
+          "recipe name" : "Tuna Tataki Salad",
+          "ingredients" : "8 oz tuna steak, 2 tablespoons sesame seeds, 1 tablespoon soy sauce, 1 tablespoon honey, 1 tablespoon rice vinegar",
+          "cooking method" : "Season the tuna steak with salt and pepper.Coat the tuna steak with sesame seeds, pressing lightly to make sure they stick.Heat a pan over high heat and add a bit of oil. Sear the tuna steak for about 30 seconds on each side.In a bowl, whisk together soy sauce, honey, rice vinegar, and sesame oil.In another bowl, mix together mixed greens, cherry tomatoes, cucumber slices, and avocado slices.Slice the tuna steak and arrange it on top of the salad. Drizzle the dressing over the salad and serve.Beef Bulgogi",
+          "rating" : 5
+        },
+        {
+          "recipe name" : "Spicy Pork Stir-Fry",
+          "ingredients" : "1 lb pork belly, thinly sliced, 2 tablespoons gochujang (Korean chili paste), 1 tablespoon soy sauce, 1 tablespoon honey, 1 tablespoon sesame oil",
+          "cooking method" : "In a bowl, whisk together gochujang, soy sauce, honey, sesame oil, and garlic.Add the pork slices to the bowl and toss to coat.Heat a pan over high heat and add a bit of vegetable oil. Add the marinated pork and cook for 3-4 minutes until browned.Add the sliced onion and bell peppers to the pan and stir-fry for another 2-3 minutes until the vegetables are tender.Season with salt and pepper to taste.Garnish with chopped green onions and serve hot with rice.Steamed Fish with Ginger and Scallions",
+          "rating" : 5
+        }
+      ]
     }
     
   ]
