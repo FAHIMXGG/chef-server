@@ -4,7 +4,7 @@ const cors = require('cors')
 const port = process.env.PORT || 5000;
 
 
-const news = require('./data/chef.json')
+const data = require('./data/chef.json')
 
 app.use(cors())
 
@@ -15,15 +15,15 @@ app.get('/', (req, res) => {
 //   res.send(categories)
 // })
 app.get('/chef', (req, res) => {
-  res.send(news)
+  res.send(data)
 })
 
 // load by ID
 app.get('/chef/:id', (req, res) => {
   const id = req.params.id;
   console.log(id);
-  const selectedNews = news.find(n => n._id === id);
-  res.send(selectedNews);
+  const selectedData = data.find(n => n._id === id);
+  res.send(selectedData);
 })
 
 // match with category ID in 2json
