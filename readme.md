@@ -1,0 +1,1 @@
+vercel: https://chef-recipe-server-fahimxgg.vercel.app/chef/
